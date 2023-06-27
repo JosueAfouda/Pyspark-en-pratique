@@ -1,3 +1,14 @@
-# Pyspark-en-pratique
+# Pyspark en pratique
 
-Lien pour télécharcher l'ensemble de données ***covtype.data*** : https://drive.google.com/file/d/1oskIulGmvVS4bddtEjniQzT9jTzOKiy7/view?usp=sharing. Source : https://www.kaggle.com/competitions/forest-cover-type-prediction/data
+Bienvenue dans le livre "PySpark en pratique : Cas d'usages réels et exemples pratiques en Data Science et Machine Learning". Dans cet ouvrage, nous vous invitons à explorer le monde fascinant de PySpark, la bibliothèque Python dédiée au traitement de données massives et à l'apprentissage automatique sur Apache Spark.
+Le domaine de la Data Science et du Machine Learning a connu une croissance exponentielle ces dernières années, et il est devenu essentiel pour les professionnels de comprendre et de maîtriser les outils et les techniques nécessaires pour extraire des connaissances précieuses à partir de données complexes. C'est dans ce contexte que PySpark se distingue comme un choix puissant pour les tâches de manipulation, d'analyse et de modélisation de données à grande échelle.
+Notre objectif avec ce livre est de vous fournir une ressource complète et pratique pour développer vos compétences en PySpark. Nous avons conçu ce livre en mettant l'accent sur des cas d'usages réels et des exemples pratiques, afin que vous puissiez appliquer directement les concepts et les techniques appris à des problèmes concrets.
+
+Au fil des chapitres, vous découvrirez les fondamentaux d'Apache Spark et de PySpark, en commençant par l'installation de l'environnement de travail. Vous apprendrez à importer, manipuler et visualiser des données à l'aide de PySpark, en explorant les différentes fonctionnalités et opérations offertes par cette bibliothèque.
+Nous vous guiderons également à travers l'apprentissage automatique avec Spark MLlib, en vous montrant comment construire des modèles prédictifs à partir de données structurées. Vous aurez l'occasion d'explorer des exemples concrets avec des données réelles en passant par toutes les étapes du processus, de la préparation des données à l'évaluation des modèles.
+Enfin, nous vous présenterons un projet reel de Machine Learning traité de A à Z avec Spark MLlib, en vous fournissant les connaissances nécessaires pour développer des modèles de régression performants et les évaluer de manière approfondie. Vous serez en mesure de comprendre les problématiques business liées à la régression, de collecter et d'analyser les données, de préparer les données pour les algorithmes de Machine Learning, et de tirer des conclusions précieuses à partir des résultats obtenus.
+Nous sommes convaincus que ce livre vous aidera à acquérir une solide compréhension de PySpark et à maîtriser les compétences nécessaires pour résoudre des problèmes complexes de Data Science et de Machine Learning. Que vous soyez un étudiant, un professionnel en informatique ou un passionné de données, nous espérons que ce livre vous inspirera et vous accompagnera dans votre parcours d'apprentissage.
+Nous vous invitons à plonger dans les pages suivantes, à explorer les cas d'usages réels et les exemples pratiques, et à exploiter pleinement le potentiel de PySpark pour transformer des données massives en informations exploitables. 
+Bonne lecture et que votre voyage dans le monde de PySpark soit enrichissant et fructueux !
+
+Josué AFOUDA
